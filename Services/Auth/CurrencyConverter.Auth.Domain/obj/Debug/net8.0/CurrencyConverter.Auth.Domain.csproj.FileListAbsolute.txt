@@ -1,0 +1,11 @@
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Domain/bin/Debug/net8.0/CurrencyConverter.Auth.Domain.deps.json
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Domain/bin/Debug/net8.0/CurrencyConverter.Auth.Domain.dll
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Domain/bin/Debug/net8.0/CurrencyConverter.Auth.Domain.pdb
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Domain/obj/Debug/net8.0/CurrencyConverter.Auth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Domain/obj/Debug/net8.0/CurrencyConverter.Auth.Domain.AssemblyInfoInputs.cache
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Domain/obj/Debug/net8.0/CurrencyConverter.Auth.Domain.AssemblyInfo.cs
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Domain/obj/Debug/net8.0/CurrencyConverter.Auth.Domain.csproj.CoreCompileInputs.cache
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Domain/obj/Debug/net8.0/CurrencyConverter.Auth.Domain.dll
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Domain/obj/Debug/net8.0/refint/CurrencyConverter.Auth.Domain.dll
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Domain/obj/Debug/net8.0/CurrencyConverter.Auth.Domain.pdb
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Domain/obj/Debug/net8.0/ref/CurrencyConverter.Auth.Domain.dll

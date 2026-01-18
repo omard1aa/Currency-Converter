@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/CurrencyConverter.Auth.API.props" />
+</Project>

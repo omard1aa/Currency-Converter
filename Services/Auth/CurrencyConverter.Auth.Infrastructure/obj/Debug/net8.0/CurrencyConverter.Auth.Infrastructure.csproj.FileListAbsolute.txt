@@ -1,0 +1,17 @@
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Infrastructure/bin/Debug/net8.0/CurrencyConverter.Auth.Infrastructure.deps.json
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Infrastructure/bin/Debug/net8.0/CurrencyConverter.Auth.Infrastructure.dll
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Infrastructure/bin/Debug/net8.0/CurrencyConverter.Auth.Infrastructure.pdb
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Infrastructure/bin/Debug/net8.0/CurrencyConverter.Auth.Application.dll
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Infrastructure/bin/Debug/net8.0/CurrencyConverter.Auth.Domain.dll
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Infrastructure/bin/Debug/net8.0/CurrencyConverter.Auth.Domain.pdb
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Infrastructure/bin/Debug/net8.0/CurrencyConverter.Auth.Application.pdb
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Infrastructure/obj/Debug/net8.0/CurrencyConverter.Auth.Infrastructure.csproj.AssemblyReference.cache
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Infrastructure/obj/Debug/net8.0/CurrencyConverter.Auth.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Infrastructure/obj/Debug/net8.0/CurrencyConverter.Auth.Infrastructure.AssemblyInfoInputs.cache
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Infrastructure/obj/Debug/net8.0/CurrencyConverter.Auth.Infrastructure.AssemblyInfo.cs
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Infrastructure/obj/Debug/net8.0/CurrencyConverter.Auth.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Infrastructure/obj/Debug/net8.0/Currency.2315DF76.Up2Date
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Infrastructure/obj/Debug/net8.0/CurrencyConverter.Auth.Infrastructure.dll
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Infrastructure/obj/Debug/net8.0/refint/CurrencyConverter.Auth.Infrastructure.dll
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Infrastructure/obj/Debug/net8.0/CurrencyConverter.Auth.Infrastructure.pdb
+/Users/omardiaa/Software Development/Self-Learning/C#/Bamboo Task/Currency-Converter/Services/Auth/CurrencyConverter.Auth.Infrastructure/obj/Debug/net8.0/ref/CurrencyConverter.Auth.Infrastructure.dll
